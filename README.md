@@ -1,6 +1,6 @@
 # Juanjo
 
-### Software Developer
+###  Data Engineering | AI & Automation | Software Developer 
 
 Systems and Computer Engineer passionate about building technology-driven solutions that connect software, data, and innovation. Experienced in software development, process automation, data integration and transformation, and machine learning solutions.
 
