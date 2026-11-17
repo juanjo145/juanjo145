@@ -4,7 +4,7 @@
 
 Systems and Computer Engineer passionate about building technology-driven solutions that connect software, data, and innovation. Experienced in software development, process automation, data integration and transformation, and machine learning solutions.
 
-I enjoy tackling complex problems, learning new technologies, and turning ideas into efficient, scalable solutions. I am particularly interested in projects where I can combine my technical skills, analytical thinking, and problem-solving abilities to create meaningful impact.
+I enjoy tackling complex problems, learning new technologies, and turning ideas into efficient, scalable solutions. I'm particularly interested in projects where i can combine my technical skills, analytical thinking, and problem-solving abilities to create meaningful impact.
 
 ## Tech Stack
 
