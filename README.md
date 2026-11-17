@@ -2,7 +2,9 @@
 
 ### Software Developer
 
-I build web applications and backend services with Python, and I enjoy turning ideas into working software. My public repository documents my learning path across data structures, operating systems, and web development.
+Systems and Computer Engineer passionate about building technology-driven solutions that connect software, data, and innovation. Experienced in software development, process automation, data integration and transformation, and machine learning solutions.
+
+I enjoy tackling complex problems, learning new technologies, and turning ideas into efficient, scalable solutions. I am particularly interested in projects where I can combine my technical skills, analytical thinking, and problem-solving abilities to create meaningful impact.
 
 ## Tech Stack
 
